@@ -1,4 +1,4 @@
-baseURL: "https://HarpreetTrios.github.io/"
+baseURL: "https://HarpreetTrios.github.com/"
 languageCode: "en-us"
 title: "Harpreet Shergill Profile"
 theme: hugo-profile
@@ -17,7 +17,7 @@ languages:
         - identifier: blog
           name: Blog
           title: Blog posts
-          url: /blog
+          url: /blogs
           weight: 1
         - identifier: gallery
           name: Gallery
