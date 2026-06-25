@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Harpreet Shergill Profile</title>
-		<link>https://HarpreetTrios.github.io/fr/</link>
+		<link>http://localhost:1313/HarpreetTrios.github.io/fr/</link>
 		<description>Recent content on Harpreet Shergill Profile</description>
 		<generator>Hugo</generator>
 		<language>fr</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://HarpreetTrios.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/HarpreetTrios.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
