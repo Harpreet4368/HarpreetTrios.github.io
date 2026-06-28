@@ -2,23 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/anonymization/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/categories/ai-ethics/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/blog/ethical-analysis-course-survey-data/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/ai-ethics/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/ai-governance/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/HarpreetTrios.github.io/blog/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/data-analytics/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/blog/my-second-post/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/data-ethics/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/categories/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/HarpreetTrios.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/HarpreetTrios.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/HarpreetTrios.github.io/fr/categories/"
+                />
   </url><url>
     <loc>http://localhost:1313/HarpreetTrios.github.io/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -35,17 +56,14 @@
                 href="http://localhost:1313/HarpreetTrios.github.io/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/l-diversity/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/predictive-policing/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/privacy/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/survey-analysis/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/responsible-ai/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/HarpreetTrios.github.io/tags/</loc>
-    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -61,6 +79,27 @@
                 hreflang="fr"
                 href="http://localhost:1313/HarpreetTrios.github.io/fr/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/anonymization/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/blog/ethical-analysis-course-survey-data/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/data-analytics/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/data-ethics/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/l-diversity/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/privacy/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HarpreetTrios.github.io/tags/survey-analysis/</loc>
+    <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/HarpreetTrios.github.io/tags/utilitarianism/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
@@ -106,22 +145,5 @@
   </url><url>
     <loc>http://localhost:1313/HarpreetTrios.github.io/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/HarpreetTrios.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/HarpreetTrios.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/HarpreetTrios.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/HarpreetTrios.github.io/fr/categories/"
-                />
   </url>
 </urlset>

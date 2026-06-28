@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Responsible AI on Harpreet Shergill Profile</title>
+		<link>http://localhost:1313/HarpreetTrios.github.io/tags/responsible-ai/</link>
+		<description>Recent content in Responsible AI on Harpreet Shergill Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/HarpreetTrios.github.io/tags/responsible-ai/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Can AI Predict Crime Fairly? The Ethics Behind Predictive Policing</title>
+				<link>http://localhost:1313/HarpreetTrios.github.io/blog/my-second-post/</link>
+				<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/HarpreetTrios.github.io/blog/my-second-post/</guid>
+				<description>&lt;h1 id=&#34;-can-ai-predict-crime-fairly&#34;&gt;🚔 Can AI Predict Crime Fairly?&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;“When we automate policing, we also automate the assumptions hidden in the data.”&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Artificial Intelligence (AI) is increasingly shaping how decisions are made in modern society. From healthcare and banking to education and law enforcement, AI systems are now used to support or even replace human judgment. One of the most controversial applications is &lt;strong&gt;predictive policing&lt;/strong&gt;, where algorithms analyze historical crime data to forecast where crimes are likely to occur.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
